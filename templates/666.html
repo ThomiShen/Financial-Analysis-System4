@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Analysis System</title>
+    <link rel="stylesheet" href="https://unpkg.com/mdui@2.0.1/mdui.css">
+    <script src="https://unpkg.com/mdui@2.0.1/mdui.global.js"></script>
+    <style>
+        /* Your custom styles */
+    </style>
+</head>
+<body class="mdui-theme-primary-indigo mdui-theme-accent-blue">
+<mdui-card style="width: 200px;height: 124px">Card</mdui-card>
+<!-- Navbar -->
+<div style="position: relative">
+  <mdui-navigation-rail contained>
+    <mdui-navigation-rail-item icon="watch_later--outlined">Recent</mdui-navigation-rail-item>
+    <mdui-navigation-rail-item icon="image--outlined" active-icon="image--filled">Images</mdui-navigation-rail-item>
+    <mdui-navigation-rail-item>
+      Library
+      <mdui-icon slot="icon" name="library_music--outlined"></mdui-icon>
+      <mdui-icon slot="active-icon" name="library_music--filled"></mdui-icon>
+    </mdui-navigation-rail-item>
+  </mdui-navigation-rail>
+
+  <div style="height: 260px;overflow: auto">
+    <div style="height: 1000px">页面内容</div>
+  </div>
+</div>
+<!-- Drawer in MDUI 2.0 style -->
+<mdui-navigation-drawer id="drawer" modal close-on-overlay-click>
+    <!-- Drawer contents -->
+    <ul class="mdui-list">
+        <!-- ... -->
+    </ul>
+</mdui-navigation-drawer>
+
+<!-- Page Content -->
+<div class="mdui-container">
+
+</div>
+
+<!-- Your existing scripts -->
+<script>
+    // MDUI JavaScript should be updated as per MDUI 2.0 documentation
+    // Your existing JavaScript logic
+</script>
+
+</body>
+</html>
