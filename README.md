@@ -6,6 +6,8 @@
 <img width="886" alt="image" src="https://github.com/ThomiShen/Financial-Analysis-System4/assets/44192013/24990ee3-a342-4548-8666-23cce8065573">
 <img width="513" alt="image" src="https://github.com/ThomiShen/Financial-Analysis-System4/assets/44192013/bf16afc9-9378-44ee-8ef4-31e5ee5cacde">
 <img width="512" alt="image" src="https://github.com/ThomiShen/Financial-Analysis-System4/assets/44192013/5cdda6dc-5b46-42a8-bc6b-60b724a1c39f">
+<img width="1154" alt="image" src="https://github.com/ThomiShen/Financial-Analysis-System4/assets/44192013/331c137c-61ee-4c11-8516-8523a788acfa">
+
 
 
 
