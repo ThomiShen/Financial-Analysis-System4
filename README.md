@@ -1,0 +1,2 @@
+# Financial-Analysis-System4
+本次加入人脸识别功能以及计划升级记录信息系统功能和人事打分系统的管理
